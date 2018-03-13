@@ -1,0 +1,7 @@
+.part .statusbar {
+	background-color: #222 !important;
+}
+
+div#workbench.parts.statusbar.part.statusbar {
+	background-color: #222 !important;
+}

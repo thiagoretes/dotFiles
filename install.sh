@@ -1,0 +1,1 @@
+pacaur -S code-oss i3-gaps zsh-dircolors-solarized-git feh polybar compton xorg-xrdb zsh-fast-syntax-highlighting-git rofi --noconfirm

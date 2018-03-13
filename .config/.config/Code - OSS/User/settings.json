@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "terminal.external.linuxExec": "gnome-terminal",
+    "vscode_custom_css.imports": ["file:///home/nowayrlz/.vscode-oss/custom_css.css", "file:///home/nowayrlz/.vscode-oss/custom_js.js"]
+}

@@ -1,0 +1,12 @@
+[2018-03-12 14:50:39.865] [exthost3] [info] extension host started
+[2018-03-12 14:50:39.896] [exthost3] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-12 14:50:39.896] [exthost3] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/emmet/out/extension
+[2018-03-12 14:50:39.971] [exthost3] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-12 14:50:39.971] [exthost3] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/git/out/main
+[2018-03-12 14:50:40.100] [exthost3] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-12 14:50:40.100] [exthost3] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/merge-conflict/out/extension
+[2018-03-12 14:50:40.116] [exthost3] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-03-12 14:50:40.116] [exthost3] [info] ExtensionService#loadCommonJSModule /home/nowayrlz/.vscode-oss/extensions/be5invis.vscode-custom-css-2.7.0/src/extension
+[2018-03-12 14:50:40.121] [exthost3] [info] ExtensionService#_doActivateExtension chiehyu.vscode-astyle {"startup":true,"activationEvent":"*"}
+[2018-03-12 14:50:40.121] [exthost3] [info] ExtensionService#loadCommonJSModule /home/nowayrlz/.vscode-oss/extensions/chiehyu.vscode-astyle-0.7.1/extension
+[2018-03-12 14:50:40.130] [exthost3] [info] eager extensions activated
